@@ -1,7 +1,7 @@
 <template>
 <div id="app">
   <div class="header">
-    <img class="logo" src="images/Wedding-Logo.png">
+    <img class="logo" src="public/images/Wedding-Logo.png">
   </div>
 
   <div class="navbar-container">

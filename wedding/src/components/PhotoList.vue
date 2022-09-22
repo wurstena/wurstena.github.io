@@ -6,7 +6,7 @@
         <img :src="'/images/'+photo.image">
       </div-->
       <div class="picture" v-if="photo.info">
-        <img :src="'/images/' + photo.image" v-on:click="showInfo(photo)">
+        <img :src="'public/images/' + photo.image" v-on:click="showInfo(photo)">
       </div>
       <div class="info" v-else>
         <div class="container" v-on:click="hideInfo(photo)">

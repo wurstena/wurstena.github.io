@@ -1,9 +1,9 @@
 <template>
   <div class="page">
     <div class="image-row">
-      <img src="images/engagement-ring.jpg">
-      <img src="images/payson-temple.jpg">
-      <img src="images/christmas-lights.jpg">
+      <img src="public/images/engagement-ring.jpg">
+      <img src="public/images/payson-temple.jpg">
+      <img src="public/images/christmas-lights.jpg">
     </div>
 
 
